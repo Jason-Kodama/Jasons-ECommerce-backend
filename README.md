@@ -8,3 +8,4 @@ us to get databases without using SQL and implement them in our express server u
 To use, you will need to clone the repository and first source the schema. Then you will need to run npm seed to get all the database files, then run npm start to get the server going.  Using Insomnia you will be able to get all data, individual data, create, delete, and update as well. 
 
 ## VideoLink
+https://drive.google.com/file/d/1s4TvJHnpp962IhB8siw8r3CZ5eXxurnB/view
